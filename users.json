@@ -1,40 +1,39 @@
 {
-   "users"[
+   "users": [
       {
-         "id":1,
-         "personalImage":2131165323,
-         "name":"Ahmed Khalid Tawfik",
-         "post":"Dream as if you'll life forever.Live as if you'll die today",
-         "postImage":2131165351
+         "id": 1,
+         "imgeName": 2131165323,
+         "name": "Ahmed Khalid Tawfik",
+         "post": "Dream as if you'll live forever. Live as if you'll die today",
+         "image": 2131165351
       },
       {
-         "id":2,
-         "personalImage":2131165324,
-         "name":"Marwa Emam Hosny",
-         "post":"life is like a roller coaster,live it be happy,enjoy life",
-         "postImage":2131165352
+         "id": 2,
+         "imgeName": 2131165324,
+         "name": "Marwa Emam Hosny",
+         "post": "Life is like a roller coaster, live it, be happy, enjoy life",
+         "image": 2131165352
       },
       {
-         "id":3,
-         "personalImage":2131165325,
-         "name":"Hassan ElDash ",
-         "post":"Helm Emam",
-         "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind",
-         "postImage":2131165352
+         "id": 3,
+         "imgeName": 2131165325,
+         "name": "Hassan ElDash",
+         "post": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind",
+         "image": 2131165352
       },
       {
-         "id":4,
-         "personalImage":2131165326,
-         "name":"Helm Emam",
-         "post":"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind",
-         "postImage":2131165430
+         "id": 4,
+         "imgeName": 2131165326,
+         "name": "Helm Emam",
+         "post": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind",
+         "image": 2131165430
       },
       {
-         "id":5,
-         "personalImage":2131165327,
-         "name":"Walaa Mohmmed",
-         "post":"ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel",
-         "postImage":2131165430
+         "id": 5,
+         "imgeName": 2131165327,
+         "name": "Walaa Mohmmed",
+         "post": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel",
+         "image": 2131165430
       }
    ]
 }
